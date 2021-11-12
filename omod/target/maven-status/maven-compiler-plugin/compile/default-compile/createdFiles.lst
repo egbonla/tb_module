@@ -1,0 +1,3 @@
+org\openmrs\module\tbmodule\fragment\controller\UsersFragmentController.class
+org\openmrs\module\tbmodule\web\controller\TbmoduledevelopnowController.class
+org\openmrs\module\tbmodule\extension\html\AdminList.class

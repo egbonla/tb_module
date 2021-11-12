@@ -1,0 +1,6 @@
+org\openmrs\module\tbmodule\Item.class
+org\openmrs\module\tbmodule\TbmoduledevelopnowConfig.class
+org\openmrs\module\tbmodule\TbmoduledevelopnowActivator.class
+org\openmrs\module\tbmodule\api\dao\TbmoduledevelopnowDao.class
+org\openmrs\module\tbmodule\api\impl\TbmoduledevelopnowServiceImpl.class
+org\openmrs\module\tbmodule\api\TbmoduledevelopnowService.class
